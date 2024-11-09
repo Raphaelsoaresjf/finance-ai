@@ -25,7 +25,7 @@ const SummaryCards = async ({
       {/* PRIMEIRO CARD */}
       <SummaryCard
         icon={<WalletIcon size={16} />}
-        title="Investido"
+        title="Saldo"
         amount={balance}
         size="large"
       />
